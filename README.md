@@ -26,7 +26,7 @@ This project analyzes budget data and election results using Python. It includes
 2. Run the budget_analysis.py file to perform the budget analysis
 3. Run the election_analysis.py file to perform the election analysis
 # Data Files
-• [budget_data.csv](about:blank): Contains the budget data for the analysis
-• election_results.txt: Contains the election results data for the analysis
+• budget_data.csv: Contains the budget data for the analysis
+• election_results.csv: Contains the election results data for the analysis
 # License
 This project is licensed under the MIT License. Contact If you have any questions or suggestions, feel free to reach out to me at kaurnancy4040@gmail.com.
