@@ -69,4 +69,9 @@ with open('election_results.txt', 'w') as text:
     text.write("---------------------------------------\n")
     text.write(f"The winner is: {winner}\n")
     text.write("---------------------------------------\n")
-  
+    
+                                
+        
+        
+        
+         
