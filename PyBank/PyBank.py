@@ -83,7 +83,7 @@ print(f"Total Months:  {count_months}")
 print(f"Total:  ${net_profit_loss}")
 print(f"Average Change:  ${average_profit_loss}")
 print(f"Greatest Increase in Profits:  {best_month} (${highest_change})")
-print(f"Greatest Decrease in Losses:  {worst_month} (${lowest_change})")
+print(f"Greatest Decrease in Profits:  {worst_month} (${lowest_change})")
 
 
 # -->>  Export a text file with the results
