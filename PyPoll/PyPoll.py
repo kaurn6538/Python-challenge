@@ -8,12 +8,14 @@ import csv
 csvpath = os.path.join('PyPoll','Resources', 'election_data.csv')
 #PyPoll/Resources/election_data.csv
 
+# initailizing PyPoll variables
 count=0
 Candidate_list=[]
 unique_candidates=[]
 vote_count=[]
 vote_percent=[]
-# Method 2: Improved Reading using CSV module
+
+# Improved Reading using CSV module
 
 with open(csvpath) as csvfile:
 
