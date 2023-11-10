@@ -5,8 +5,9 @@ import os
 # Module for reading CSV files
 import csv
 
-# Path to collect data from the Resources folder
+#Path to collect data from the Resources folder
 csvpath = os.path.join('PyPoll','Resources', 'election_data.csv')
+
 #PyPoll/Resources/election_data.csv
 
 # initailizing PyPoll variables
