@@ -45,7 +45,8 @@ with open(csvpath) as csvfile:
         
     winning_vote_count=max(vote_count)    
     winner=unique_candidates[vote_count.index(winning_vote_count)]
-    
+
+    # Print results to the terminal
     print("-------------------------")
 print("Election Results")   
 print("-------------------------")
