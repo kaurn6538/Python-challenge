@@ -96,4 +96,4 @@ with open('financial_analysis.txt', "w") as outfile:
     outfile.write(f"Total:  ${net_profit_loss}\n")
     outfile.write(f"Average Change:  ${average_profit_loss}\n")
     outfile.write(f"Greatest Increase in Profits:  {best_month} (${highest_change})\n")
-    outfile.write(f"Greatest Decrease in Losses:  {worst_month} (${lowest_change})\n")
+    outfile.write(f"Greatest Decrease in Profits:  {worst_month} (${lowest_change})\n")
